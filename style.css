@@ -1,0 +1,20 @@
+/* Importing Google Font */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Section Styling */
+#summary-content, #content {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer a {
+    color: #e8491d;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
