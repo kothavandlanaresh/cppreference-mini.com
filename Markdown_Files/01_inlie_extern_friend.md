@@ -1,6 +1,7 @@
 ## Overview
 Demonstrates the use of inline functions, extern variables, and friend functions in C++.
 
+
 ## Key Points
 
 1. **Inline Functions**:
